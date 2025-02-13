@@ -1,6 +1,6 @@
 # Necrocalypse
 takakuma studio game
-#what Necrocalypse
+#　what Necrocalypse
 This is a smartphone game made by Takakuma Studio.
 The name of this is Necrocalypse
 Compatible with Android
